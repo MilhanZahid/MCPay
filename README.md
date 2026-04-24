@@ -1,6 +1,6 @@
 # MCPay — Payment Layer for MCP Tool Servers
 
-## Hackathon: Agentic Economy on Arc · lablab.ai · April 2026
+## Built for the Agentic Economy on Arc Hackathon · lablab.ai · April 2026
 
 ### The Problem
 
@@ -24,9 +24,6 @@ For 80 tool calls at $0.001 each:
 | Ethereum L2 | $4.00 | Unviable (fee > 50× payment) |
 | **Arc Nanopayments** | **$0.00** | **Works — Circle batches settlement** |
 
-### Tracks
-- Track 1: Per-API Monetization Engine
-- Track 2: Agent-to-Agent Payment Loop
 
 ### Technologies Used
 
@@ -98,9 +95,11 @@ python run_both_agents.py
 - **Tool server:** http://localhost:3001/health
 - **Arc explorer:** https://testnet.arcscan.app
 
-### Team
+### Built By
 
-Built for the Agentic Economy on Arc hackathon.
+**MILHAN ZAHID**
+- GitHub: [github.com/MilhanZahid](https://github.com/MilhanZahid)
+- Email: write2milhan@gmail.com
 
 ### License
 
