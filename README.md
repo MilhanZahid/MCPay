@@ -98,9 +98,11 @@ python run_both_agents.py
 - **Tool server:** http://localhost:3001/health
 - **Arc explorer:** https://testnet.arcscan.app
 
-### Team
+### Built By
 
-Built for the Agentic Economy on Arc hackathon.
+**MILHAN ZAHID**
+- GitHub: github.com/MilhanZahid
+- Email: write2milhan@gmail.com
 
 ### License
 
