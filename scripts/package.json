@@ -1,0 +1,14 @@
+{
+  "name": "mcpay-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "setup": "tsx setup-wallets.ts"
+  },
+  "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^10.1.0",
+    "dotenv": "^16.3.1",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  }
+}
