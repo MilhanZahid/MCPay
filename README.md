@@ -101,7 +101,7 @@ python run_both_agents.py
 ### Built By
 
 **MILHAN ZAHID**
-- GitHub: github.com/MilhanZahid
+- GitHub: [github.com/MilhanZahid](https://github.com/MilhanZahid)
 - Email: write2milhan@gmail.com
 
 ### License
