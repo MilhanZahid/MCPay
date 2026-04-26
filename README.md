@@ -103,4 +103,4 @@ python run_both_agents.py
 
 ### License
 
-MIT-
+MIT
