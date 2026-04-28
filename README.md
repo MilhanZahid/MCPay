@@ -1,7 +1,5 @@
 # MCPay — Payment Layer for MCP Tool Servers
 
-## Built for the Agentic Economy on Arc Hackathon · lablab.ai · April 2026
-
 ### The Problem
 
 10,000+ MCP tool servers exist. Every developer earns $0 per call despite agents using their tools thousands of times daily.
