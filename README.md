@@ -12,7 +12,7 @@ Traditional payment rails make sub-cent billing impossible:
 
 MCPay adds x402 Nanopayments to any MCP server. Agents pay $0.001 USDC per tool call. Payments settle on Arc via Circle Nanopayments with zero gas cost. Developers earn per call for the first time.
 
-### Economic Proof (Why Only Arc Makes This Work)
+### Economic Proof (Why Only Arc Makes This Work):
 
 For 80 tool calls at $0.001 each:
 
